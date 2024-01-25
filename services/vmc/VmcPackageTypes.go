@@ -8,4 +8,5 @@
 // Shared by client-side stubs and server-side skeletons to ensure type
 // compatibility.
 
+
 package vmc
